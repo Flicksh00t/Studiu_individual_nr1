@@ -1,0 +1,1 @@
+# Studiu_individual_nr1
