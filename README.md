@@ -67,5 +67,10 @@ Conține documentul DiagrameUML.md cu imaginile ale diagramele UML
 - Branch-ul `prototip-figma` este dedicat **designului**, pentru a păstra proiectarea UI separată de documentele tehnice.  
 - Integrarea branch-urilor se face prin **Pull Request**, atunci când este necesar.
 
+## 👤 Colaboratori
+- Flicksh00t(Bodrug Tudor) - organizator GitHub
+- MariusDemian54(Demian Marius-Pavel) - colaborator
+- GhergheNicrasov(Nicrasov Gheorghe) - colaborator
+- trappy228(Sclear Mihail) - colaborator
 
 
